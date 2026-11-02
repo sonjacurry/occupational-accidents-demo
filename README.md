@@ -224,3 +224,4 @@ occupational-accidents-finland/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
