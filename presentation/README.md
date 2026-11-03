@@ -6,8 +6,6 @@ Accidents in Finland analytics project.
 
 ## Presentation
 
-[View the occupational accidents presentation](occupational-accidents-presentation.pdf)
-
 The presentation summarises:
 
 - Project objectives
