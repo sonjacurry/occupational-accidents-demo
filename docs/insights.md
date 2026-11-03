@@ -1,1 +1,1 @@
-![Power BI Insights](powerbi/screenshots/insights.png)
+![Power BI Insights](../powerbi/screenshots/insights.png)
