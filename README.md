@@ -308,7 +308,7 @@ The report contains several analytical views.
 
 ### Overview
 
-Provides high-level KPIs and long-term development, including:
+Provides KPIs and long-term development, including:
 
 - Total accidents
 
@@ -319,6 +319,8 @@ Provides high-level KPIs and long-term development, including:
 - Year-on-year change
 
 - Accident trends from 2008 to 2024
+
+![Power BI Overview](powerbi/screenshots/overview.png)
 
 ### Industry Analysis
 
@@ -336,6 +338,8 @@ Explores occupational accidents using the two-level industry hierarchy:
 
 Users can drill from main industries into detailed sub-industries.
 
+![Power BI Industry](powerbi/screenshots/industry.png)
+
 ### Demographics
 
 Explores accident patterns by:
@@ -347,6 +351,8 @@ Explores accident patterns by:
 - Year
 
 The report compares demographic composition and long-term trends across demographic groups.
+
+![Power BI Demographics](powerbi/screenshots/demographics.png)
 
 ### Injury Severity
 
@@ -366,6 +372,8 @@ The analysis includes:
 
 - Differences in injury distributions between industries
 
+![Power BI Injury severity](powerbi/screenshots/injury_severity.png)
+
 ### Occupational Status
 
 Explores occupational accidents across:
@@ -377,6 +385,8 @@ Explores occupational accidents across:
 - Farmers
 
 The page examines both absolute accident counts and differences in occupational-status composition between industries.
+
+![Power BI Occupational status](powerbi/screenshots/occupational_status.png)
 
 ## Power BI Measures
 

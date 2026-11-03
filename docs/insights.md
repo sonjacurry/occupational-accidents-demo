@@ -1,0 +1,1 @@
+![Power BI Insights](powerbi/screenshots/insights)
